@@ -296,7 +296,7 @@ img {
   text-align: center;
 }
 
-.card-item-icon {
+.icon {
   display: flex;
   justify-content: center;
   gap: 24px;
