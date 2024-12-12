@@ -213,8 +213,8 @@ img {
   gap: 24px;
 }
 
-.feature-icon {
-  display: flex;
+.feature-item-icon {
+  display: inline-block;
   align-items: center;
   justify-content: center;
   width: 264px;
