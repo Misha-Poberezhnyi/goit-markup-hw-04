@@ -461,7 +461,6 @@ img {
 .socials-item {
   width: 40px;
   height: 40px;
-  background-color: 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .socials-icon-link {
@@ -472,6 +471,7 @@ img {
   display: flex;
   align-items: center;
   justify-content: center;
+  background-color: 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .socials-icon-link:hover,
@@ -479,6 +479,6 @@ img {
   background-color: #31d0aa;
 }
 
-.socials-caed-icon {
+.socials-card-icon {
   fill: #f4f4fd;
 }
